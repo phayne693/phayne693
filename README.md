@@ -14,7 +14,7 @@ I am software development since 2020, working with different technologies and so
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sutil-Puppeteer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
+  <img align="center" alt="Sutil-Puppeteer" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
   <img align="center" alt="Sutil-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
   <img align="center" alt="Sutil-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img align="center" alt="Sutil-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" />
