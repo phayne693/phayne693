@@ -9,12 +9,13 @@ Additionally, I gained valuable experience as a Q.A Tester from 2023 to 2024, wh
 </a>
 ---
 
-##
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phayne693&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phayne693&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phayne693&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phayne693&layout=compact&theme=dracula"/>
 </div>
 
+## Main Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Sutil-Puppeteer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
   <img align="center" alt="Sutil-Selenium" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
@@ -28,16 +29,28 @@ Additionally, I gained valuable experience as a Q.A Tester from 2023 to 2024, wh
   <img align="center" alt="Sutil-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Sutil-NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Sutil-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Sutil-Rabbitmq" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
   
-##
+## Contact:
   
 <div>
   <a href = "mailto:jefersonqueiroz2009@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeferson-tester/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## I’m currently learning :
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sutil-NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Sutil-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Sutil-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sutil-Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<!--   <span>NODE.JS</span> -->
+</div>
+
+## Goals:
+I am currently studying automated testing and web platform development to enhance my skills in these areas. Additionally, I am focusing on improving my proficiency in web scraping. My goal is to re-enter the job market either as a QA Tester or Web Developer. Meanwhile, I aim to maintain my freelance work in web scraping and other related projects.
 <!--
 ![snake animation](https://github.com/marcoshaa/marcoshaa/blob/output/github-contribution-grid-snake2.svg)
 **marcoshaa/marcoshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
