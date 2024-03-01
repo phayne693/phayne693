@@ -1,7 +1,7 @@
 ## Hi! My name is Jeferson Queiroz Lemes, welcome my repository
 I am software development since 2020, working with different technologies and solving many types of problems.
 As a freelancer, I have also been involved in various Web Scraping projects, leveraging my skills to extract valuable data from the web.
-Additionally, I gained valuable experience as a QA Tester from 2023 to 2024, where I contributed to ensuring the quality and reliability of software products through rigorous testing methodologies.
+Additionally, I gained valuable experience as a Q.A Tester from 2023 to 2024, where I contributed to ensuring the quality and reliability of software products through rigorous testing methodologies.
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
