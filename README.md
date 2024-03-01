@@ -29,9 +29,14 @@ I am software development since 2020, working with different technologies and so
 ##
   
 <div>
-  <a href = "mailto:jefersonqueiroz2009@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-tester/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:jefersonqueiroz2009@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jeferson-tester/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
+
 <!--
 ![snake animation](https://github.com/marcoshaa/marcoshaa/blob/output/github-contribution-grid-snake2.svg)
 **marcoshaa/marcoshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
