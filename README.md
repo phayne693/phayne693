@@ -1,4 +1,4 @@
-## Hi! My name is Marcos Andrade, welcome my repository
+## Hi! My name is Jeferson Queiroz, welcome my repository
 I am software development since 2020, working with different technologies and solving many types of problems.
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
@@ -28,10 +28,9 @@ I am software development since 2020, working with different technologies and so
   
 ##
   
-<div> 
-  <a href="https://www.instagram.com/marcosh_as/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:m.andrade.assis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcoshaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href = "mailto:jefersonqueiroz2009@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeferson-tester/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!--
 ![snake animation](https://github.com/marcoshaa/marcoshaa/blob/output/github-contribution-grid-snake2.svg)
